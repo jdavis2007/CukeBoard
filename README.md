@@ -28,8 +28,8 @@ Header:
 •	A test that is not assigned a time in the future will run now.
 •	Tests scheduled in the future are stored in the database and can be viewed in the Schedule View.  
 •	Changing the Frequency option to “Every ” will reveal the options for setting the recurrence pattern:    
- 
-![image](https://user-images.githubusercontent.com/5246775/220804003-c7d6c94a-6f6a-44fc-8ff1-e581e38a1ac7.png
+![image](https://user-images.githubusercontent.com/5246775/220805508-015d8636-02b3-42d1-b001-e4c0b4b97619.png)
+
 
 2.	Schedule View: The scheduler is where you will see the test sets that are scheduled.  
 ![image](https://user-images.githubusercontent.com/5246775/220804047-7abc3e77-491c-4deb-9d5e-f0f544e7e737.png)
