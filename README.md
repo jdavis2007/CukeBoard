@@ -1,6 +1,6 @@
 # CukeBoard
 This repository contains a web application to use with a Cucumber.  This application has functionality to view,run and create Cucumber tests via Drag and Drop.
-
+The code will be up shortly.
 
 Introduction: CukeBoard™ is an interactive application created to increase velocity of any QA Automation team.  CukeBoard provides an efficient way  to view Coverage, Run Tests, View Test Results, Screen Shots, and enter Triage Notes on why tests fail. The test run functionality ability to re-run a single test to get regression “back to green”. CukeBoard is also a convenient place to easily create and schedule tests leveraging the QA machines on the team and eliminating the need for Jenkins and all the associated restrictions and infrastructure and labor costs.  You can even run the tests in up to 8 test sets each on X number of machines that report as a single test result. This app just works once setup  The Gherkin is parsed by a Rake task (needs to be made into a separate gem ) within the given repository to send to the database using cucumber_analytics Ruby Gem as well as the mysql2 gem. If the sync finds any Test Scenarios that no longer exist they will be marked as deprecated.  The data for the dashboard is stored in a MySQL database currently using the following details:
 :adapter: mysql2
