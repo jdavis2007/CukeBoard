@@ -6,9 +6,9 @@ Introduction: CukeBoard™ is an interactive application created to increase vel
 :adapter: mysql2
 :host: YOURSQLSERVER
 :port: 3306
-:username: autouser
-:password: Aut0mat10n
-:database: automation
+:username: YOUR SQL USER
+:password: YOURSQLPASSWORD
+:database: automation_db
 Basics:
 ![image](https://user-images.githubusercontent.com/5246775/220803727-8ed23210-9288-455e-bc3f-16dc29ebcefb.png)
 Header: 
